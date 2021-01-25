@@ -23,6 +23,12 @@ order: 401
 
 <a href="https://codesandbox.io/s/github/vuejs/vuejs.org/tree/master/src/v2/examples/vue-20-single-file-components" target="_blank" rel="noopener noreferrer"><img src="/images/vue-component.png" alt="单文件组件的示例 (点击查看文本版的代码" style="display: block; margin: 30px auto;"></a>
 
+### 组件通讯
+prop方式
+全局方式
+具体的通讯例子，如何和上级通讯，需要人来完善。
+事件的处理。应该一并由人出来说下，demo一下。
+
 现在我们获得：
 
 - [完整语法高亮](https://github.com/vuejs/awesome-vue#source-code-editing)
@@ -54,7 +60,8 @@ order: 401
 
 ### 例子沙箱
 
-如果你希望深入了解并开始使用单文件组件，请来 CodeSandbox [看看这个简单的 todo 应用](https://codesandbox.io/s/o29j95wx9)。
+如果你希望深入了解并开始使用单文件组件，请来 CodeSandbox [看看这个简单的 todo 应用](https://codesandbox.io/s/o29j95wx9)。 
+沙箱好像是坏掉了。 不太好用。（国内）
 
 ### 针对刚接触 JavaScript 模块开发系统的用户
 
